@@ -3,5 +3,5 @@ pandas
 matplotlib
 seaborn
 selenium
-beautifulsoup
+beautifulsoup4
 
